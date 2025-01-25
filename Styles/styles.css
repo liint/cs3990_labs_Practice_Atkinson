@@ -17,24 +17,25 @@ p.p1{
     color: black;
     font-family: 'Courier New', Courier, monospace;
     height: 170px;
+    width: auto;
 }
 
 p.p2{
     color: blue;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     height: 200px;
-    width: 200px;
+    width: 700px;
     text-decoration: none;
 }
 
 p.p3{
     color: aliceblue;
-    width:50px
+    width:200px
 }
 
 p.p4{
     color: brown;
-    width: 10px;
+    width: 100px;
 }
 
 p.p5{
