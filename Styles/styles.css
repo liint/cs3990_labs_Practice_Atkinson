@@ -18,4 +18,17 @@ menu{
 
 aside1{
     position:sticky;
+    float:top left;
+}
+
+aside2{
+    float:left;
+}
+
+aside3{
+    float:right;
+}
+
+footer{
+    float:bottom;
 }
