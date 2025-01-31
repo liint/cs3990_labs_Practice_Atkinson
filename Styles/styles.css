@@ -2,11 +2,11 @@ div{
     background-color: blueviolet;
 }
 
-header{
+.header{
     margin:30px;
 }
 
-title{
+p.title{
     position: relative;
     height: 100px;
     width: 200px;
@@ -16,28 +16,33 @@ title{
     float:left;
 }
 
-menu{
-
+.menu{
+    box-sizing: border-box;
 }
 
 .link{
-
+    background-color:purple;
+    display: inline-block;
 }
 
-aside1{
+.aside1{
     position:sticky;
     float:top left;
 }
 
-aside2{
+.aside2{
     float:left;
 }
 
-aside3{
+.aside3{
     float:right;
 }
 
-footer{
+.main{
+
+}
+
+.footer{
     float:bottom;
 }
 
