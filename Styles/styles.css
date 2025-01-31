@@ -1,45 +1,21 @@
-h2 {
-    font-style: italic;
+div{
+    background-color: blueviolet;
 }
 
-a.pageskip{
-    font-weight: bold;
+header{
+    margin:30px;
 }
 
-p{
-    text-decoration-line: overline;
-    text-decoration-color: red;
-    text-decoration-thickness: 30px;
-    line-height: 30px;
+header.person{
+    float:left;
+    height: 35px;
+    width: 30px;
 }
 
-p.p1{
-    color: black;
-    font-family: 'Courier New', Courier, monospace;
-    height: 170px;
-    width: auto;
+menu{
+
 }
 
-p.p2{
-    color: blue;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    height: 200px;
-    width: 700px;
-    text-decoration: none;
-}
-
-p.p3{
-    color: aliceblue;
-    width:200px
-}
-
-p.p4{
-    color: brown;
-    width: 100px;
-}
-
-p.p5{
-    color: green;
-    width: 300px;
-    height: auto;
+aside1{
+    position:sticky;
 }
