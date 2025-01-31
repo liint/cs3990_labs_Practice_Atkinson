@@ -6,10 +6,13 @@ header{
     margin:30px;
 }
 
+title{
+    position: relative;
+    height: ;
+}
+
 header.person{
     float:left;
-    height: 35px;
-    width: 30px;
 }
 
 menu{
