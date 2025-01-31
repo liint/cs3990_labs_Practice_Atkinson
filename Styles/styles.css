@@ -8,14 +8,19 @@ header{
 
 title{
     position: relative;
-    height: ;
+    height: 100px;
+    width: 200px;
 }
 
-header.person{
+.person{
     float:left;
 }
 
 menu{
+
+}
+
+.link{
 
 }
 
@@ -34,4 +39,12 @@ aside3{
 
 footer{
     float:bottom;
+}
+
+div[sms].hover{
+    filter:grayscale(0%)
+}
+
+.grayscale{
+    filter:grayscale(100%)
 }
