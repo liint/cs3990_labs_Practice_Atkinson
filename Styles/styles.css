@@ -48,9 +48,8 @@ p.title{
     float:top left;
     padding:10px;
     margin:10px;
-    margin-bottom: 5px;
-    margin-right: 5px;
-    width:200px;
+    margin-bottom: -5px;
+    margin-right: -5px;
 }
 
 .aside2{
@@ -83,7 +82,7 @@ p.title{
     margin:10px;
     margin-bottom: 5px;
     margin-left: 220px;
-    margin-right: 220px;
+    margin-right: 230px;
 }
 
 .footer{
