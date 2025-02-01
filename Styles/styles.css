@@ -10,7 +10,7 @@ nav{
     margin:10px;
     margin-bottom: 5px;
     padding: 10px;
-    height:auto;
+    height:120px;
     width: auto;
 }
 
@@ -70,7 +70,9 @@ p.title{
 }
 .aside2 li{
     background-color: orchid;
-
+    margin:2px;
+    position:relative;
+    left:-20px;
 }
 
 .aside3{
@@ -81,6 +83,8 @@ p.title{
     margin-left: 5px;
     height: 200px;
     width:200px;
+    position:relative;
+    top:-120px;
 }
 
 .main{
