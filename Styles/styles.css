@@ -39,6 +39,7 @@ p.title{
     text-decoration: violet;
     display: inline-block;
     border-radius: 15px;
+    padding:5px;
 }
 .link:link{
     text-decoration:violet;
