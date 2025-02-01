@@ -38,6 +38,7 @@ p.title{
     margin:10px;
     margin-bottom: 5px;
     margin-right: 5px;
+    width:200px;
 }
 
 .aside2{
@@ -46,6 +47,7 @@ p.title{
     margin:10px;
     margin-bottom: 5px;
     margin-right: 5px;
+    width:200px;
 }
 .aside2 li{
     background-color: darkorchid;
@@ -56,13 +58,14 @@ p.title{
     margin:10px;
     margin-bottom: 5px;
     margin-left: 5px;
+    width:200px;
 }
 
 .main{
     margin:10px;
     margin-bottom: 5px;
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-left: 210px;
+    margin-right: 210px;
 }
 
 .footer{
