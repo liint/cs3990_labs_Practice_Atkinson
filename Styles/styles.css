@@ -116,14 +116,17 @@ p1{
     float:left;
 }
 
-p2{
+icons{
     float:right;
+    list-style: none;
+    right:10px;
+    bottom: 10%;
 }
 
 .sms{
     position: relative;
-    /*right:10px;*/
-    bottom: 10%;
+    /*right:10px;
+    bottom: 10%;*/
 }
 
 .sms:hover{
