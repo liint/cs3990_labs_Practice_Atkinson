@@ -120,11 +120,15 @@ p2{
     float:right;
 }
 
+.sms{
+    position: absolute;
+    right:10px;
+    bottom: 10%;
+}
+
 .sms:hover{
     filter:grayscale(0%);
     float: right;
-    position:relative;
-    top:-50px;
 }
 
 .grayscale{
