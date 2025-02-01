@@ -2,6 +2,10 @@ div{
     background-color: blueviolet;
 }
 
+nav{
+    background-color: blueviolet;
+}
+
 .header{
     margin:10px;
     margin-bottom: 5px;
@@ -33,6 +37,7 @@ p.title{
     float:top left;
     margin:10px;
     margin-bottom: 5px;
+    margin-right: 5px;
 }
 
 .aside2{
@@ -40,6 +45,7 @@ p.title{
     background-color: orchid;
     margin:10px;
     margin-bottom: 5px;
+    margin-right: 5px;
 }
 .aside2 li{
     background-color: darkorchid;
@@ -49,11 +55,14 @@ p.title{
     float:right;
     margin:10px;
     margin-bottom: 5px;
+    margin-left: 5px;
 }
 
 .main{
     margin:10px;
     margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 .footer{
