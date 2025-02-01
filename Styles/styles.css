@@ -121,7 +121,7 @@ p.title{
 .footer{
     float:bottom;
     position: relative;
-    bottom: -100px;
+    bottom: 100px;
     padding:10px;
     margin:10px;
     border:10px double black;
