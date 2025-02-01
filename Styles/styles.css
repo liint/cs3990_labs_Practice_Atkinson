@@ -84,10 +84,10 @@ p.title{
     margin:10px;
     margin-bottom: 5px;
     margin-left: 5px;
-    height:300px;
+    height:250px;
     width:200px;
     position:relative;
-    top:-130px;
+    top:-140px;
     border:10px double black;
 }
 
@@ -100,7 +100,7 @@ p.title{
     margin-left: 240px;
     margin-right: 300px;
     position: relative;
-    top: -130px;
+    top: -140px;
     border:10px double black;
 }
 
@@ -125,9 +125,7 @@ icons{
 }
 
 .sms{
-    position: relative;
-    /*right:10px;
-    bottom: 10%;*/
+    float:right;
 }
 
 .sms:hover{
