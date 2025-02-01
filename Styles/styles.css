@@ -129,6 +129,7 @@ p.title{
 .footer{
     float:bottom;
     position: relative;
+    height:90px;
     bottom: 140px;
     padding:10px;
     margin:10px;
