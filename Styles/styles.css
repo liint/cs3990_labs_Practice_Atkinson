@@ -1,10 +1,10 @@
 div{
     background-color: blueviolet;
-    margin:5px;
 }
 
 .header{
-    margin:20px;
+    margin:10px;
+    margin-bottom: 5px;
 }
 
 p.title{
@@ -19,6 +19,8 @@ p.title{
 
 .menu{
     box-sizing: border-box;
+    margin:10px;
+    margin-bottom: 5px;
 }
 
 .link{
@@ -29,12 +31,15 @@ p.title{
 .aside1{
     position:sticky;
     float:top left;
-    margin: 50px;
+    margin:10px;
+    margin-bottom: 5px;
 }
 
 .aside2{
     float:left;
     background-color: orchid;
+    margin:10px;
+    margin-bottom: 5px;
 }
 .aside2 li{
     background-color: darkorchid;
@@ -42,14 +47,19 @@ p.title{
 
 .aside3{
     float:right;
+    margin:10px;
+    margin-bottom: 5px;
 }
 
 .main{
-
+    margin:10px;
+    margin-bottom: 5px;
 }
 
 .footer{
     float:bottom;
+    margin:10px;
+    margin-bottom: 5px;
 }
 
 div[sms].hover{
