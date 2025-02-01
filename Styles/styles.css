@@ -81,7 +81,7 @@ p.title{
     margin:10px;
     margin-bottom: 5px;
     margin-left: 5px;
-    height: 200px;
+    height:400px;
     width:200px;
     position:relative;
     top:-120px;
@@ -89,6 +89,7 @@ p.title{
 
 .main{
     height: 200px;
+    width: 70%;
     padding: 10px;
     margin:10px;
     margin-bottom: 5px;
@@ -115,6 +116,9 @@ p2{
 
 div[sms].hover{
     filter:grayscale(0%);
+    float: right;
+    position:relative;
+    top:-50px;
 }
 
 .grayscale{
