@@ -119,7 +119,7 @@ p2{
     float:right;
 }
 
-div[sms].hover{
+.sms:hover{
     filter:grayscale(0%);
     float: right;
     position:relative;
