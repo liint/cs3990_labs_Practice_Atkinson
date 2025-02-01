@@ -34,6 +34,10 @@ p.title{
 
 .aside2{
     float:left;
+    background-color: orchid;
+}
+.aside2 li{
+    background-color: darkorchid;
 }
 
 .aside3{
