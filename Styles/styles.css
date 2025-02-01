@@ -106,6 +106,12 @@ p.title{
     background-color: skyblue;
 }
 
+.listimg{
+    position: fixed;
+    bottom:10px;
+    right:5px;
+}
+
 .main{
     height: 240px;
     width: 60%;
