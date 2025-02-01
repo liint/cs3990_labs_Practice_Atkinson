@@ -12,9 +12,7 @@ nav{
     padding: 10px;
     height:120px;
     width: auto;
-    border-style: double;
-    border:10px;
-    border-color: black;
+    border:10px double black;
 }
 
 p.title{
@@ -25,9 +23,7 @@ p.title{
 
 .person{
     float:left;
-    border-style: double;
-    border:10px;
-    border-color: black;
+    border:10px double black;
 }
 
 .menu{
