@@ -77,6 +77,9 @@ p.title{
     position:relative;
     left:-20px;
 }
+.aside2 mark{
+    background-color: darkorchid;
+}
 
 .aside3{
     float:right;
@@ -120,12 +123,14 @@ p2{
     float:right;
     position: relative;
     right:10px;
-    bottom: 10%;
+    margin-bottom:10px;
 }
 
 .sms{
     float:right;
     justify-content: right;
+    position: relative;
+    bottom: -10px;
 }
 
 .sms:hover{
