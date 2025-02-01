@@ -150,7 +150,7 @@ p2{
     float:right;
     justify-content: right;
     position: relative;
-    bottom: 50px;
+    bottom: 50%;
     margin:10px;
 }
 
