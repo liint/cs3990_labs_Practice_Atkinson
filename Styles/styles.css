@@ -108,8 +108,8 @@ p.title{
 
 .listimg{
     position: fixed;
-    bottom:50px;
-    right:20px;
+    bottom:80px;
+    right:50px;
     border-radius: 25px;
 }
 
@@ -143,6 +143,7 @@ p2{
     float:right;
     position: relative;
     right:10px;
+    bottom:50px;
     margin-bottom:10px;
 }
 
