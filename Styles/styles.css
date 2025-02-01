@@ -20,6 +20,9 @@ p.title{
 
 .person{
     float:left;
+    border-style: double;
+    border:5px;
+    border-color: black;
 }
 
 .menu{
