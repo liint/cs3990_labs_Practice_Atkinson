@@ -14,8 +14,8 @@ nav{
 
 p.title{
     position: relative;
-    height: 100px;
-    width: 200px;
+    top: -100px;
+    left: 200px;
 }
 
 .person{
