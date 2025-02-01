@@ -36,10 +36,15 @@ p.title{
 
 .link{
     background-color:darkviolet;
-    text-decoration: violet ;
+    text-decoration: violet;
     display: inline-block;
 }
-
+.link:link{
+    text-decoration:violet;
+}
+.link:visited{
+    text-decoration:violet;
+}
 .link:hover{
     background-color: violet;
     text-decoration: darkviolet;
@@ -56,7 +61,7 @@ p.title{
 
 .aside2{
     float:left;
-    background-color: orchid;
+    background-color: blueviolet;
     margin:10px;
     margin-bottom: 5px;
     margin-right: 5px;
@@ -64,7 +69,7 @@ p.title{
     list-style-position: inside;
 }
 .aside2 li{
-    background-color: darkorchid;
+    background-color: orchid;
 
 }
 
@@ -85,6 +90,8 @@ p.title{
     margin-bottom: 5px;
     margin-left: 220px;
     margin-right: 230px;
+    position: relative;
+    top: -120px;
 }
 
 .footer{
@@ -92,6 +99,14 @@ p.title{
     padding:10px;
     margin:10px;
     margin-bottom: 5px;
+}
+
+p1{
+    float:left;
+}
+
+p2{
+    float:right;
 }
 
 div[sms].hover{
