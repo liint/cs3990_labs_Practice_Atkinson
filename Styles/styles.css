@@ -10,6 +10,8 @@ nav{
     margin:10px;
     margin-bottom: 5px;
     padding: 10px;
+    height:auto;
+    width: auto;
 }
 
 p.title{
