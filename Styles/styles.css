@@ -53,6 +53,7 @@ p.title{
 .aside1{
     position:sticky;
     float:top left;
+    width:200px;
     padding:10px;
     margin:10px;
     margin-bottom: -5px;
