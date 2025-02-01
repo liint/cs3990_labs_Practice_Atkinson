@@ -155,7 +155,7 @@ p2{
 }
 
 .sms:hover{
-    filter:grayscale(-100%);
+    filter:none;
     float: right;
 }
 
