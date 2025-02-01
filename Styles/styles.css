@@ -31,9 +31,7 @@ p.title{
     margin:10px;
     margin-bottom: 5px;
     padding: 10px;
-    border-style: double;
-    border:10px;
-    border-color: black;
+    border:10px double black;
 }
 
 .link{
@@ -59,9 +57,7 @@ p.title{
     margin:10px;
     margin-bottom: -5px;
     margin-right: -5px;
-    border-style: double;
-    border:10px;
-    border-color: black;
+    border:10px double black;
 }
 
 .aside2{
@@ -72,9 +68,7 @@ p.title{
     margin-right: 5px;
     width:200px;
     list-style-position: inside;
-    border-style: double;
-    border:10px;
-    border-color: black;
+    border:10px double black;
 }
 .aside2 li{
     background-color: orchid;
@@ -93,9 +87,7 @@ p.title{
     width:200px;
     position:relative;
     top:-120px;
-    border-style: double;
-    border:10px;
-    border-color: black;
+    border:10px double black;
 }
 
 .main{
@@ -108,9 +100,7 @@ p.title{
     margin-right: 230px;
     position: relative;
     top: -120px;
-    border-style: double;
-    border:10px;
-    border-color: black;
+    border:10px double black;
 }
 
 .footer{
@@ -118,9 +108,7 @@ p.title{
     padding:10px;
     margin:10px;
     margin-bottom: 5px;
-    border-style: double;
-    border:10px;
-    border-color: black;
+    border:10px double black;
 }
 
 p1{
@@ -140,6 +128,6 @@ div[sms].hover{
 
 .grayscale{
     filter:grayscale(100%);
-    width: 50px;
-    height:50px;
+    width: 30px;
+    height:30px;
 }
