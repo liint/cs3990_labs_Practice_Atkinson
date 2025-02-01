@@ -127,7 +127,7 @@ p2{
 }
 
 .sms:hover{
-    filter:grayscale(0%);
+    filter:grayscale(-100%);
     float: right;
 }
 
