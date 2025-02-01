@@ -144,6 +144,7 @@ p2{
     justify-content: right;
     position: relative;
     bottom: 20px;
+    margin:10px;
 }
 
 .sms:hover{
