@@ -34,13 +34,13 @@ p.title{
 
 .link{
     background-color:darkviolet;
-    text-decoration-color: violet;
+    text-decoration: violet ;
     display: inline-block;
 }
 
 .link:hover{
     background-color: violet;
-    text-decoration-color: darkviolet;
+    text-decoration: darkviolet;
 }
 
 .aside1{
@@ -71,10 +71,12 @@ p.title{
     margin:10px;
     margin-bottom: 5px;
     margin-left: 5px;
+    height: 200px;
     width:200px;
 }
 
 .main{
+    height: 200px;
     margin:10px;
     margin-bottom: 5px;
     margin-left: 220px;
