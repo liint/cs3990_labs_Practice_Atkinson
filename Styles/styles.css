@@ -93,7 +93,7 @@ p.title{
 
 .main{
     height: 200px;
-    width: 70%;
+    width: 60%;
     padding: 10px;
     margin:10px;
     margin-bottom: 5px;
@@ -119,6 +119,7 @@ p1{
 icons{
     float:right;
     list-style: none;
+    position: relative;
     right:10px;
     bottom: 10%;
 }
