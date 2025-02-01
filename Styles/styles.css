@@ -136,11 +136,11 @@ p.title{
     border:10px double black;
 }
 
-p#p1{
+p1{
     float:left;
 }
 
-p#p2{
+p2{
     float:right;
     position: relative;
     right:10px;
