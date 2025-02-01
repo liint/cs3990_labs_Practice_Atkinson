@@ -95,6 +95,16 @@ p.title{
     border:10px double black;
 }
 
+.aside3 ul{
+    list-style-image: url('Images/toDo.png');
+}
+.aside3 ul:nth-child(odd){
+    background-color: blue;
+}
+.aside3 ul:nth-child(even){
+    background-color: skyblue;
+}
+
 .main{
     height: 240px;
     width: 60%;
