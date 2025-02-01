@@ -97,7 +97,7 @@ p.title{
 }
 
 .aside3 ul{
-    list-style-image: url('Images/toDo.png');
+    list-style-image: url('Images/toDo.gif');
 }
 .aside3 li:nth-child(odd){
     background-color: blue;
@@ -157,7 +157,7 @@ p2{
 
 .sms:hover{
     filter:none;
-    float: right;
+    /*float: right;*/
 }
 
 .grayscale{
