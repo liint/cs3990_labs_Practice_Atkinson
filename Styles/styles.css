@@ -155,14 +155,20 @@ p#p2{
     bottom: 50px;
     margin:10px;
 }
+.sms:link{
+    filter:grayscale(100%);
+}
+.sms:visited{
+    filter:grayscale(100%);
+}
 
 .sms:hover{
-    filter:none !important;
+    filter:grayscale(0%) !important;
     /*float: right;*/
 }
 
 .grayscale{
-    filter:grayscale(100%);
+    /*filter:grayscale(100%);*/
     width: 30px;
     height:30px;
 }
