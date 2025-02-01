@@ -53,7 +53,7 @@ p.title{
 .aside1{
     position:sticky;
     float:top left;
-    width:200px;
+    width:180px;
     padding:10px;
     margin:10px;
     margin-bottom: -5px;
@@ -84,10 +84,10 @@ p.title{
     margin:10px;
     margin-bottom: 5px;
     margin-left: 5px;
-    height:400px;
+    height:300px;
     width:200px;
     position:relative;
-    top:-120px;
+    top:-130px;
     border:10px double black;
 }
 
@@ -97,10 +97,10 @@ p.title{
     padding: 10px;
     margin:10px;
     margin-bottom: 5px;
-    margin-left: 220px;
-    margin-right: 230px;
+    margin-left: 240px;
+    margin-right: 300px;
     position: relative;
-    top: -120px;
+    top: -130px;
     border:10px double black;
 }
 
