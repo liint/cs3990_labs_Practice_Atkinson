@@ -116,9 +116,8 @@ p1{
     float:left;
 }
 
-icons{
+p2{
     float:right;
-    list-style: none;
     position: relative;
     right:10px;
     bottom: 10%;
@@ -126,6 +125,7 @@ icons{
 
 .sms{
     float:right;
+    justify-content: right;
 }
 
 .sms:hover{
