@@ -135,11 +135,11 @@ p.title{
     border:10px double black;
 }
 
-p1{
+p#p1{
     float:left;
 }
 
-p2{
+p#p2{
     float:right;
     position: relative;
     right:10px;
@@ -151,12 +151,12 @@ p2{
     float:right;
     justify-content: right;
     position: relative;
-    bottom: 80px;
+    bottom: 50px;
     margin:10px;
 }
 
 .sms:hover{
-    filter:none;
+    filter:none !important;
     /*float: right;*/
 }
 
