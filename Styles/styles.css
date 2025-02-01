@@ -1,9 +1,10 @@
 div{
     background-color: blueviolet;
+    margin:5px;
 }
 
 .header{
-    margin:30px;
+    margin:20px;
 }
 
 p.title{
@@ -21,13 +22,14 @@ p.title{
 }
 
 .link{
-    background-color:purple;
+    background-color:darkviolet;
     display: inline-block;
 }
 
 .aside1{
     position:sticky;
     float:top left;
+    margin: 50px;
 }
 
 .aside2{
