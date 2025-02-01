@@ -38,6 +38,7 @@ p.title{
     background-color:darkviolet;
     text-decoration: violet;
     display: inline-block;
+    border-radius: 15px;
 }
 .link:link{
     text-decoration:violet;
@@ -109,9 +110,10 @@ p.title{
 
 .footer{
     float:bottom;
+    position: relative;
+    bottom: -100px;
     padding:10px;
     margin:10px;
-    margin-bottom: 5px;
     border:10px double black;
 }
 
@@ -130,7 +132,7 @@ p2{
     float:right;
     justify-content: right;
     position: relative;
-    bottom: -10px;
+    bottom: 20px;
 }
 
 .sms:hover{
